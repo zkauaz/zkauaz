@@ -1,6 +1,8 @@
 # 🦖i'm Kauã
 
-<img src="https://pa1.aminoapps.com/7402/d99058100e493b2b3cdc01164eb8be3dcc549057r1-600-338_hq.gif">
+<img 
+    width="20000px"
+     src="https://pa1.aminoapps.com/7402/d99058100e493b2b3cdc01164eb8be3dcc549057r1-600-338_hq.gif">
 
 ---
 
@@ -27,15 +29,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <img
     align="left"
     alt="Github stats"
-    height="200"
+    height="500"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=zkauaz&show_icons=true&theme=dark&" 
 />
 
 <img
-    align="left"
+    aling="left"
     alt="Github stats"
-    height="200"
+    height="250"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkauaz&layout=compact&theme=dark"
 />
