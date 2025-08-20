@@ -1,7 +1,7 @@
 # 🦖i'm Kauã
 
 <img 
-    width="20000px"
+    width="200px"
      src="https://pa1.aminoapps.com/7402/d99058100e493b2b3cdc01164eb8be3dcc549057r1-600-338_hq.gif">
 
 ---
